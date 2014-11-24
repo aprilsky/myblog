@@ -3,7 +3,7 @@
   <channel>
       <title>Hugo on Hugo Blog Template for GitHub Pages </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://aprilsky.github.io/myblog/myblog/categories/hugo/index.xml</link>
+    <link>http://aprilsky.github.io/myblog/categories/hugo/index.xml</link>
     
     
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>Just another sample post</title>
-      <link>http://aprilsky.github.io/myblog/myblog/posts/newest/</link>
+      <link>http://aprilsky.github.io/myblog/posts/newest/</link>
       <pubDate>Sat, 29 Mar 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://aprilsky.github.io/myblog/myblog/posts/newest/</guid>
+      <guid>http://aprilsky.github.io/myblog/posts/newest/</guid>
       <description>
 
 &lt;h2 id=&#34;toc_0&#34;&gt;First Heading&lt;/h2&gt;
